@@ -26,4 +26,6 @@ Sketch:
 
 ![Foods](read_me_sketch1.png)
 
-![Dating](Dating interests of ideal partners.png)
+![Dating](Dating_interests_of_ideal_partners.png)
+
+https://proj3team12.herokuapp.com/
