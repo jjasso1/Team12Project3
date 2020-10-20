@@ -24,7 +24,6 @@ We studied analyzed and used  massive data and powerful machine learning technol
 
 Sketch:
 
-![Foods](read_me_sketch1.png)
 
 ![Dating](Dating_interests_of_ideal_partners.png)
 
